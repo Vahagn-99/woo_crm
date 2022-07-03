@@ -1,4 +1,4 @@
-## install
+## Install
 
 1. git clone 
 2. craete .env file from .env.example 
